@@ -1,3 +1,5 @@
-Doughnuts
-Pizza
-Salad
+# Favorite Foods
+
+* Doughnuts
+* Pizza
+* Salad
